@@ -1,0 +1,10 @@
+.git
+.gitignore
+.DS_Store
+*.md
+Screenshot_*.png
+google-apps-script
+Dockerfile
+docker-compose.yml
+.dockerignore
+nginx.conf
